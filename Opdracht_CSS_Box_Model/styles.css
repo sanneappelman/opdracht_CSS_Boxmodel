@@ -1,0 +1,100 @@
+body {
+    font-family: 'KoHo', sans-serif;
+    background-color:#f4f1de ;
+}
+h1 {
+    font-style:italic;
+    color:#3d405b;
+    font-size:50px;
+    margin: 20px
+}
+
+#naam {
+    font-size:30px;
+    color:#3d405b;
+    border-color:black;
+    border-style:groove;
+    border-width:thin;
+    margin:25px;
+    padding:20px;
+    width:33%;
+}
+
+#groep1 {
+    border-color:#81b29a;
+    border-style:double;
+    border-width:5px;
+    color:#e07a5f;
+    Font-style:bold;
+    font-size:20px;
+    padding: 15px;
+    width:40%;
+    margin:15px 110px;
+}
+
+.groep2 {
+    background-color:#f2cc8f;
+    font-size:15px;
+    font-family: sans-serif;
+    font-weight:lighter;
+    border-color:#81b29a;
+    border-top-style:dotted;
+    border-left-style:double;
+    border-right-style:double;
+    border-bottom-style:dotted;
+    border-width:5px;
+    margin: 20px;
+    padding:10px;
+}
+
+#lijst {
+    padding-left:30px;
+}
+
+.header{
+    border:5px #2a9d8f solid;
+    border-radius:20px;
+    width:700px
+}
+
+.main{
+    border: 5px #e9c46a solid;
+    border-radius:20px;
+    width: 50%;
+    margin:auto;
+}
+
+.footer{
+   margin: 40px;
+}
+
+a:link {
+    color:red;
+    text-decoration: none;
+    background-color:ivory;
+    padding:10px;
+    border:#81b29a solid;
+}
+a:visited {
+    color:black;
+    text-decoration: none;
+    background-color:ivory;
+    padding:10px;
+    border:#81b29a solid;
+}
+a:hover {
+    color: green;
+    text-decoration: none;
+    background-color:ivory;
+    padding:10px;
+    border:#81b29a solid;
+}
+
+a:active {
+    color: blue;
+    text-decoration: none;
+    background-color:ivory;
+    padding:10px;
+    border:#81b29a solid;
+}
+
